@@ -4,10 +4,10 @@ print(thought)
 ```
 
 - 👋 Hi, I’m @ElDwarf
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in `<secret>`
+- 🌱 I’m currently learning `<secret>`
+- 💞️ I’m looking to collaborate on `<secret>`
+- 📫 How to reach me `<secret>`
 
 <!---
 ElDwarf/ElDwarf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
