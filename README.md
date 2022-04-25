@@ -1,3 +1,8 @@
+```python
+thought = "Special cases aren't special enough to break the rules."
+print(thought)
+```
+
 - 👋 Hi, I’m @ElDwarf
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
